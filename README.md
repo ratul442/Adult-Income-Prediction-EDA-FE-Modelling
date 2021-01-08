@@ -1,7 +1,9 @@
 # Adult-Income-Prediction-EDA-FE-Modelling
 
 About the dataset (Adult Income Data)
-The dataset contains information about the individuals' age, gender, and several attributes affecting the income of a person. Attribute information:
+The dataset contains information about the individuals' age, gender, and several attributes affecting the income of a person. 
+
+Attribute information:
 
 age: Age of an individual
 
